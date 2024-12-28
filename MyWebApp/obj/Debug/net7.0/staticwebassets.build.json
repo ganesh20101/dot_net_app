@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "L1hwGwqgtsFWT1sdXazYjor1obGfjgcC+HZEyY85wnE=",
+  "Source": "MyWebApp",
+  "BasePath": "_content/MyWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyWebApp/wwwroot",
+      "Source": "MyWebApp",
+      "ContentRoot": "/root/project/MyWebApp/MyWebApp/wwwroot/",
+      "BasePath": "_content/MyWebApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/root/project/MyWebApp/MyWebApp/wwwroot/index.html",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/root/project/MyWebApp/MyWebApp/wwwroot/",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ]
+}
